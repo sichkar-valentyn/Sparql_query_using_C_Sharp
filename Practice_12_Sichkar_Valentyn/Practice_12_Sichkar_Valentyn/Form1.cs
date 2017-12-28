@@ -1,4 +1,15 @@
-﻿using System;
+// File: Form1.cs
+// Description: Sparql query programming using C#
+// Environment: Visual Studio 2015, C#
+//
+// MIT License
+// Copyright (c) 2017 Valentyn N Sichkar
+// github.com/sichkar-valentyn
+//
+// Reference to:
+//[1] Valentyn N Sichkar. Sparql query programming using C# // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Sparql_query_using_C_Sharp (date of access: XX.XX.XXXX)
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
