@@ -1,6 +1,9 @@
 # Sparql query using C#
 Sparql query programming using C#
 
+### Courses:
+* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
+
 ### Reference to:
 [1] Valentyn N Sichkar. Sparql query programming using C# // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Sparql_query_using_C_Sharp (date of access: XX.XX.XXXX)
 
